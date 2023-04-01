@@ -1,0 +1,76 @@
+[
+  {
+    "id": 1,
+    "name": "Eat that frog",
+    "price": 250,
+    "imgUrl": "/imgs/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Can't hurt me",
+    "price": 300,
+    "imgUrl": "/imgs/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "The psychology of money",
+    "price": 270,
+    "imgUrl": "/imgs/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Atomic habits",
+    "price": 350,
+    "imgUrl": "/imgs/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hyperfocus",
+    "price": 320,
+    "imgUrl": "/imgs/5.png"
+  },
+  {
+    "id": 6,
+    "name": "12 rules for life",
+    "price": 315,
+    "imgUrl": "/imgs/6.png"
+  },
+  {
+    "id": 7,
+    "name": "the alchemist",
+    "price": 310,
+    "imgUrl": "/imgs/7.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Life of Pi",
+    "price": 300,
+    "imgUrl": "/imgs/8.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Quiet",
+    "price": 325,
+    "imgUrl": "/imgs/9.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Big Magic",
+    "price": 355,
+    "imgUrl": "/imgs/10.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Make your bed",
+    "price": 320,
+    "imgUrl": "/imgs/11.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Before the coffee gets cold",
+    "price": 280,
+    "imgUrl": "/imgs/12.jpg"
+  }
+ 
+  
+]
