@@ -31,8 +31,7 @@
 
 # Credits
 ## This project was created with React,Typescript & Vite and the following dependencies:
-
--bootstap
+     - bootstap
      - react
      - react-bootstap
      - react-dom
