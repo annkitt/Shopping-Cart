@@ -1,9 +1,9 @@
 ## Created a simple frontend where there are a couple of products and upon clicking on add to cart button the item will be added to the cart and the user can see the items added to the cart on the cart page.
 
--Table of Contents
-    -Installation
-    -Usage
-    -Contributing
+- Table of Contents
+    - Installation
+    - Usage
+    - Contributing
 
 
 # Installation
@@ -30,13 +30,13 @@
 
 
 # Credits
-## This project was created with React,Typescript & Viteand the following dependencies:
+## This project was created with React,Typescript & Vite and the following dependencies:
 
 -bootstap
-   .react
-   -react-bootstap
-   .react-dom
-   .react-router-dom
+     - react
+     - react-bootstap
+     - react-dom
+     - react-router-dom
 
 
 
