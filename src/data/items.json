@@ -3,7 +3,7 @@
     "id": 1,
     "name": "Eat that frog",
     "price": 250,
-    "imgUrl": "/imgs/1.jpg"
+    "imgUrl": "/imgs/12.jpg"
   },
   {
     "id": 2,
@@ -69,7 +69,7 @@
     "id": 12,
     "name": "Before the coffee gets cold",
     "price": 280,
-    "imgUrl": "/imgs/12.jpg"
+    "imgUrl": "/imgs/13.jpg"
   }
  
   

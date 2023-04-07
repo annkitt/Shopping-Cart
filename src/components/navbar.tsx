@@ -1,5 +1,5 @@
 import { Button, Container, Nav, Navbar as NavbarBs } from "react-bootstrap"
-import { NavLink } from "react-router-dom"
+
 import { useShoppingCart } from "../context/shoppingcartcontext"
 
 export function Navbar() {
@@ -8,10 +8,10 @@ export function Navbar() {
     <NavbarBs sticky="top" className="bg-body shadow-sm mb-2 ">
       <Container>
         <Nav className="me-auto">
-          <Nav.Link to="/Home" as={NavLink}>
+         
            <b style={{ fontSize: "32px" }}> Hooked On Books </b>
-          </Nav.Link>
-        </Nav>
+          </Nav>
+        
         {cartQuantity > 0 && (
           <Button
             onClick={openCart}
